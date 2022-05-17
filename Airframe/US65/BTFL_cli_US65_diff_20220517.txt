@@ -1,0 +1,45 @@
+diff all
+# Betaflight / CRAZYBEEF3FR (CBFR) 3.4.0 Jul  8 2018 / 04:06:04 (cce8a59be) MSP API: 1.39
+
+board_name CRAZYBEEF3FR
+manufacturer_id 
+mcu_id 0021001a5734571220333632
+defaults nosave
+name US65
+
+map TAER1234
+aux 0 0 0 1400 2100 0
+aux 1 1 1 1725 2100 0
+aux 2 2 1 900 1300 0
+aux 3 35 3 1725 2100 0
+set acc_calibration = -143,9,-126
+set min_check = 1100
+set rx_spi_protocol = FRSKY_D
+set motor_pwm_protocol = DSHOT600
+set bat_capacity = 250
+set small_angle = 180
+set frsky_spi_tx_id = 123,6
+set frsky_spi_offset = -21
+set frsky_spi_bind_hop_data = 0,30,60,91,120,150,180,210,5,35,65,95,125,155,185,215,10,40,70,100,130,160,190,221,15,45,75,105,135,165,195,225,20,50,80,110,140,170,200,230,25,55,85,115,145,175,205,0,0,0
+profile 0
+
+profile 1
+
+profile 2
+
+profile 0
+rateprofile 0
+
+rateprofile 1
+
+rateprofile 2
+
+rateprofile 3
+
+rateprofile 4
+
+rateprofile 5
+
+rateprofile 0
+save
+# 
