@@ -12,4 +12,4 @@ Store assets related to multicopters.
 - Controller
   - [ ] add Jumper T-Pro
 - Goggle
-  - [ ] add FatShark Dominator V3
+  - [x] add FatShark Dominator V3
