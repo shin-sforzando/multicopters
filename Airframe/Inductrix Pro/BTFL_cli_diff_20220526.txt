@@ -1,0 +1,18 @@
+# 
+
+# diff  all
+# Betaflight / NAZE 3.1.6 Mar 22 2017 / 13:58:30 ()
+
+aux 0 0 0 1700 2100
+aux 1 27 1 1300 1700
+aux 2 1 1 1700 2100
+aux 27 0 0 900 900
+set min_check = 1180
+set gyro_sync_denom = 3
+profile 0
+
+rateprofile 0
+rateprofile 0
+
+
+# 

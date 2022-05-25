@@ -1,0 +1,28 @@
+diff all
+# Betaflight / NAZE 3.1.6 Mar 22 2017 / 13:58:30 ()
+defaults
+
+set gyro_sync_denom = 3
+profile 0
+
+rateprofile 0
+rateprofile 0
+
+rateprofile 1
+
+rateprofile 2
+
+rateprofile 0
+profile 1
+
+rateprofile 0
+rateprofile 0
+
+rateprofile 1
+
+rateprofile 2
+
+rateprofile 0
+profile 0
+save
+# 

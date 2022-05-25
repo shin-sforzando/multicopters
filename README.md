@@ -7,8 +7,8 @@ Store assets related to multicopters.
 - Airframe
   - [ ] add Cine4K
   - [ ] add Mobula 6
-  - [ ] add Betafpv 65S
-  - [ ] add Inductrix Pro
+  - [x] add Beta65S
+  - [x] add Inductrix Pro
 - Controller
   - [ ] add Jumper T-Pro
 - Goggle
