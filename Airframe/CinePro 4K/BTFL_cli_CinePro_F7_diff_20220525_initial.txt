@@ -1,0 +1,139 @@
+diff all
+
+# version
+# Betaflight / EXF722DUAL (EX7P) 4.0.5 Aug  1 2019 / 11:48:11 (839661b20) MSP API: 1.41
+
+# start the command batch
+batch start
+
+# reset configuration to default settings
+defaults nosave
+
+board_name EXF722DUAL
+manufacturer_id 
+mcu_id 004400463238510736353235
+signature 
+
+# name
+name CinePro F7
+
+# resources
+
+# timer
+
+# dma
+
+# mixer
+
+# servo
+
+# servo mix
+
+
+# feature
+
+# beeper
+
+# beacon
+
+# map
+
+# serial
+serial 1 8192 115200 57600 0 115200
+serial 3 64 115200 57600 0 115200
+
+# led
+led 0 6,5::CTOB:0
+led 1 7,5::CTOB:0
+
+# color
+
+# mode_color
+
+# aux
+aux 0 0 0 900 1275 0 0
+aux 1 1 1 1275 1700 0 0
+aux 2 2 0 1700 2100 0 0
+aux 3 13 2 1675 2100 0 0
+aux 4 35 3 1675 2100 0 0
+
+# adjrange
+
+# rxrange
+
+# vtx
+
+# rxfail
+
+# display_name
+
+# master
+set acc_calibration = 85,-5,4
+set baro_hardware = NONE
+set motor_pwm_protocol = DSHOT1200
+set vbat_max_cell_voltage = 440
+set yaw_motors_reversed = ON
+set small_angle = 180
+set osd_warn_core_temp = OFF
+set osd_vbat_pos = 2519
+set osd_rssi_pos = 2101
+set osd_tim_2_pos = 2487
+set osd_flymode_pos = 2105
+set osd_throttle_pos = 2497
+set osd_vtx_channel_pos = 2081
+set osd_mah_drawn_pos = 2465
+set osd_craft_name_pos = 2506
+set osd_warnings_pos = 14442
+
+# profile
+profile 0
+
+set p_pitch = 34
+set d_pitch = 24
+set p_roll = 32
+set d_roll = 22
+set p_yaw = 34
+set d_min_roll = 15
+set d_min_pitch = 17
+
+# profile
+profile 1
+
+
+# profile
+profile 2
+
+
+# restore original profile selection
+profile 0
+
+# rateprofile
+rateprofile 0
+
+
+# rateprofile
+rateprofile 1
+
+
+# rateprofile
+rateprofile 2
+
+
+# rateprofile
+rateprofile 3
+
+
+# rateprofile
+rateprofile 4
+
+
+# rateprofile
+rateprofile 5
+
+
+# restore original rateprofile selection
+rateprofile 0
+
+# save configuration
+save
+# 
