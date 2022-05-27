@@ -29,8 +29,8 @@
 
 ## ToDo
 
-- [ ] Flip over after crash
-- [ ] Replace frame
+- [ ] Set Flip over after Crash
+- [ ] Replace the frame
 - [ ] Upgrade to [BetaFlight Performance Edition F3](https://github.com/joelucid/betaflight/releases)
 
 ## Misc

@@ -1,0 +1,129 @@
+semver: 2.7.0
+board: tpro
+calib: 
+   Rud:
+      mid: 715
+      spanNeg: 334
+      spanPos: 418
+   Ele:
+      mid: 1461
+      spanNeg: 442
+      spanPos: 420
+   Thr:
+      mid: 530
+      spanNeg: 448
+      spanPos: 415
+   Ail:
+      mid: 1438
+      spanNeg: 404
+      spanPos: 371
+   POT1:
+      mid: 1023
+      spanNeg: 1008
+      spanPos: 1008
+   POT2:
+      mid: 960
+      spanNeg: 945
+      spanPos: 1070
+currModel: 1
+contrast: 25
+vBatWarn: 65
+txVoltageCalibration: 0
+backlightMode: backlight_mode_all
+antennaMode: MODE_PER_MODEL
+disableRtcWarning: 0
+keysBacklight: 0
+rotEncDirection: 0
+internalModule: TYPE_CROSSFIRE
+trainer: 
+   mix: 
+      0:
+         srcChn: 3
+         mode: REPL
+         studWeight: 100
+      1:
+         srcChn: 1
+         mode: REPL
+         studWeight: 100
+      2:
+         srcChn: 2
+         mode: REPL
+         studWeight: 100
+      3:
+         srcChn: 0
+         mode: REPL
+         studWeight: 100
+view: 2
+fai: 0
+beepMode: mode_nokeys
+alarmsFlash: 0
+disableMemoryWarning: 0
+disableAlarmWarning: 0
+stickMode: 1
+timezone: 9
+adjustRTC: 0
+inactivityTimer: 10
+internalModuleBaudrate: 0
+splashMode: 0
+hapticMode: mode_nokeys
+switchesDelay: 0
+lightAutoOff: 2
+templateSetup: 21
+PPM_Multiplier: 0
+hapticLength: 2
+beepLength: 2
+hapticStrength: 2
+gpsFormat: 0
+speakerPitch: 0
+speakerVolume: 12
+vBatMin: 60
+vBatMax: 84
+backlightBright: 0
+globalTimer: 14294
+bluetoothBaudrate: 0
+bluetoothMode: OFF
+countryCode: 0
+pwrOnSpeed: 0
+pwrOffSpeed: 0
+noJitterFilter: 1
+imperial: 0
+disableRssiPoweroffAlarm: 0
+USBMode: 0
+jackMode: 0
+ttsLanguage: "en"
+beepVolume: 2
+wavVolume: 4
+varioVolume: 2
+backgroundVolume: 3
+varioPitch: 0
+varioRange: 0
+varioRepeat: 0
+serialPort: 
+   VCP:
+      mode: CLI
+potsConfig: 
+   POT1:
+      type: with_detent
+      name: ""
+   POT2:
+      type: with_detent
+      name: ""
+backlightColor: 0
+sticksConfig: 
+   0:
+      name: "---"
+switchConfig: 
+   SA:
+      type: 3pos
+      name: ""
+   SB:
+      type: 3pos
+      name: ""
+   SC:
+      type: toggle
+      name: ""
+   SD:
+      type: toggle
+      name: ""
+ownerRegistrationID: "\x0B\x11909700"
+uartSampleMode: 0
