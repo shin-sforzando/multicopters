@@ -22,9 +22,8 @@ Store assets related to my multicopters.
   - [RunCom (FPV Camera)](#runcom-fpv-camera)
   - [Eachine R051 (FPV Receiver)](#eachine-r051-fpv-receiver)
   - [VelociDrone (FPV Simulator)](#velocidrone-fpv-simulator)
-- [Misc.](#misc)
+- [Misc](#misc)
   - [Glossary](#glossary)
-
 
 ## Airframe
 
@@ -74,10 +73,12 @@ Store assets related to my multicopters.
 ### Jumper T-Pro
 
 - [x] Describe the outline in `README.md`
+- [ ] Describes how to update firmware
 
-### Radiomaster Zorro
+### [Radiomaster Zorro](./Controller/Radiomaster%20Zorro%204in1/README.md)
 
 - [x] Describe the outline in `README.md`
+- [ ] Describes how to update firmware
 
 ## Goggle
 
@@ -107,7 +108,7 @@ Store assets related to my multicopters.
 
 - [ ] Describe the outline in `README.md`
 
-## Misc.
+## Misc
 
 ### Glossary
 

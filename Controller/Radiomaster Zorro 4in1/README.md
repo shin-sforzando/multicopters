@@ -5,10 +5,14 @@
 https://www.radiomasterrc.com/products/zorro-radio-controller?variant=42171729641703
 
 - [Spec](#spec)
+- [Radio Settings](#radio-settings)
+- [Models](#models)
 - [How to](#how-to)
-  - [Update](#update)
-    - [Firmware](#firmware)
-    - [MULTI-module](#multi-module)
+  - [Connect as Joy Stick](#connect-as-joy-stick)
+  - [Connect to Edge TX Companion](#connect-to-edge-tx-companion)
+    - [Update](#update)
+      - [Firmware](#firmware)
+      - [MULTI-module](#multi-module)
 - [Misc](#misc)
 
 ## Spec
@@ -17,15 +21,31 @@ https://www.radiomasterrc.com/products/zorro-radio-controller?variant=4217172964
 - Internal Radio: JP4IN1
 - External Radio: None
 
-## How to
+## Radio Settings
 
-### Update
+![Screenshot 2023-12-28 154246](https://github.com/shin-sforzando/multicopters/assets/32637762/003850cc-677c-42ae-8774-384b4b809373)
 
-#### Firmware
+## Models
 
 (T. B. D.)
 
-#### MULTI-module
+## How to
+
+### Connect as Joy Stick
+
+After turning on the power, connect the cable to the USB-C port on the top of the controller and select `USB Joystick (HID)`.
+
+### Connect to Edge TX Companion
+
+After turning on the power, connect the cable to the USB-C port on the top of the controller and select `USB Storage (SD)`.
+
+#### Update
+
+##### Firmware
+
+(T. B. D.)
+
+##### MULTI-module
 
 (T. B. D.)
 
