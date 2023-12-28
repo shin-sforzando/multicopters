@@ -5,7 +5,9 @@
   - [Receiver](#receiver)
   - [Mode](#mode)
 - [How to](#how-to)
+  - [Connect to Betaflight Configurator](#connect-to-betaflight-configurator)
   - [Bind](#bind)
+  - [Update Firmware](#update-firmware)
 - [ToDo](#todo)
 - [Misc](#misc)
 
@@ -28,9 +30,17 @@
 
 ## How to
 
+### Connect to Betaflight Configurator
+
+(T. B. D.)
+
 ### Bind
 
 (T. B. D.)
+
+### Update Firmware
+
+Use [ImpulseRC Driver Fixer](https://impulserc.com/pages/downloads) to enter DFU mode.
 
 ## ToDo
 
